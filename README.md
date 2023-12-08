@@ -8,3 +8,6 @@ Key features include a discreet headless operation, ensuring uninterrupted scrap
 This versatile script covers a spectrum of data, including product name, author, price, rating, reviews, and reviewer details, enabling a comprehensive dataset for analysis. It effortlessly runs on Google Colab, harnessing its cloud-based capabilities for scalable execution, adapting to varied scraping needs.
 
 Perfect for market research, competitor analysis, and product development insights, this script unlocks valuable customer sentiments and trends. Written in Python with Selenium, it aligns seamlessly with the Google Colab environment, offering a user-friendly and powerful tool for data analysis.
+
+Sample Dataset with 5500 Records
+![Screenshot_18](https://github.com/ChanakaDushmantha/Amazon-Review-Scraping/assets/52632879/259107a3-c56e-4524-a3aa-7e508b334abb)
